@@ -1,0 +1,24 @@
+body {
+  background-image: url("https://golf.com/wp-content/uploads/2018/04/golf-balls-generic-ask-equipment-expert.jpg");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+div {
+  color: blue;
+}
+h3 {
+  color: black;
+}
+aside {
+  text-align: center;
+}
+h1 {
+  color: red;
+}
+h1.ex1 {
+  font-size: 50px;
+}
+p {
+  color: black;
+}
